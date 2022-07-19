@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/edu/servlet/admin/UsermanagerServlet.java=UTF-8
+encoding//src/edu/servlet/admin/VideoManagerServlet.java=UTF-8
+encoding//src/edu/servlet/user/AccountServlet.java=UTF-8
+encoding//src/edu/servlet/user/LoginServlet.java=UTF-8
+encoding//src/edu/servlet/user/ShareVideoServlet.java=UTF-8
+encoding//src/edu/servlet/user/VideoServlet.java=UTF-8
+encoding//src/edu/webFilter/AuthFilter.java=UTF-8
+encoding//src/edu/webFilter/LoggerFilter.java=UTF-8
+encoding//src/edu/webListener/AppListener.java=UTF-8
